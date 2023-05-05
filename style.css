@@ -1,0 +1,74 @@
+body {
+    background- font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background {
+    width: 100%;
+    height: 100vh;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.reinet {
+    border: 1px whitesmoke;
+    padding: 1em;
+    margin: 1em;*/
+    margin-bottom: 0.5em;
+    border-radius: 1em;
+}
+
+.REINET_MAKEUP {
+    color: white;
+     border: 1px whitesmoke;
+     max-height: 100px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+    /* padding: 1em; */
+    /*margin: 1em;*/
+    /*margin-top: 0em;*/
+    /*margin-bottom: 0em;*/
+    /*margin-bottom: 0.5em;*/
+    /* border-radius: 1em;*/
+    max
+}
+
+.Face_beat {
+    background-color: beige;
+}
+
+.Eye_lashes {
+    background-color: beige;
+}
+
+.Eyebrow_shaping {
+    background-color: beige;
+}
+
+.Makeup_lessons {
+    background-color: beige;
+}
+
+.contact_us {
+    background-color: beige;
+}
+
+.contact1 {
+    background-color: dimgray;
+}
+
+.reinet2 {
+    border: 0px slategrey;
+    padding: 0em;
+    /*margin: 0.5em;*/
+    /*margin-bottom: 0.5em;*/
+    /*border-radius: 1em;*/
+    vertical-align: baseline;
+}
+
+@media (min-width: 960px) {
+    reinets {
+        display: flex;
+    }
+}
